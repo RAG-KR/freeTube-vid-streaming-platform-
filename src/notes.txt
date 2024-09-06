@@ -13,3 +13,5 @@ call the fetch api using the useeffect available so that you can reload as soon 
 useeffect is a lifecycle hook that gets loaded when the component initially loads like a constructor
 
 you use Link component of reac router dom to navigate to the vid details from the json of the api so that you can play the vid
+
+if i console.log(video elelments) in videoCard.jsx ,  it returns an objkect having many things like vid id type etc etc
