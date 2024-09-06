@@ -1,0 +1,15 @@
+i think at the time stamp 22:20
+when you try to run the different routes, even though its compiling its not showing the elelments i dont know why 
+yess the error is fixed there was a spelling error
+esp7+ and some intellisense for npm and and some other extentions need to be downloaded
+
+now i will learn how to fetch from api the yt data and render on my screen
+i subscribed to the basic plan. thank god they didnt ask any credit card information
+im soo damn happy that they didnt ask any credit card info
+now create fetchfromapi.js in utils after copying the code for node js in the api
+
+call the fetch api using the useeffect available so that you can reload as soon as the data loads look in to the function
+
+useeffect is a lifecycle hook that gets loaded when the component initially loads like a constructor
+
+you use Link component of reac router dom to navigate to the vid details from the json of the api so that you can play the vid
