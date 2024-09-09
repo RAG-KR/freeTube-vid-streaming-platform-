@@ -15,3 +15,9 @@ useeffect is a lifecycle hook that gets loaded when the component initially load
 you use Link component of reac router dom to navigate to the vid details from the json of the api so that you can play the vid
 
 if i console.log(video elelments) in videoCard.jsx ,  it returns an objkect having many things like vid id type etc etc
+
+to test diff spacing ,  i changed Videos.jsx videoCard.jsx and feed.jsx using chat gpt , revert to the old self written versions of that code
+
+// this below code is to fix the channel card not rendering at the timestamp 1:25:25. the error is caused because of using the {} braces instead of () when in rafce ,  i remove the return , it is atleast nesessary to change the brackets which i did not do let me test this thoery
+
+// yess that was exaclty the isSecureContext. the below code from chat gpt indented the flexbox little better and solved this issue but i will stick to the original code and keep doing the rest of the things adding functionality. good learning exp
